@@ -1,0 +1,13 @@
+/* Colori */
+[class*="col-"], 
+[class*="col"] {
+    background-color: #006bf7;
+    color: #fff;
+    border: 0.5px solid #fff;
+    padding: 20px;
+    text-align: center;
+}
+.nest {
+    background-color: green;
+    border-color: #006bf7;
+}
