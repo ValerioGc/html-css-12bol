@@ -19,4 +19,3 @@
 ## *_Preview:_*
 
 ![Preview i1](/preview/preview-12col.gif)
-
